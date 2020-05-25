@@ -79,9 +79,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am an HHMI postdoc with <a href="https://www.janelia.org/lab/lavis-lab" target="_blank">Luke Lavis</a> (Janelia) and <a href="https://ccr.cancer.gov/Chemical-Biology-Laboratory/martin-j-schnermann" target="_blank">Martin Schnermann</a> (NCI/NIH). I make new chemigenetic probes, photoactivatable drugs, and fluorescent probes for imaging.
