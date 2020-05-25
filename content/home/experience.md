@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 #  * Deploying
 #  """
 [[experience]]
-  title = "Graduate Student w/ [Scott T. Laughlin](https://www.laughlinlab.com)"
+  title = "Graduate Student w/ [Scott Laughlin](https://www.laughlinlab.com)"
   company = "Stony Brook University"
   company_url = "https://www.stonybrook.edu"
   location = "New York, USA"
