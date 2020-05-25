@@ -8,9 +8,9 @@ light = true
 primary = "#2962ff"
 
 # Menu
-menu_primary = "#3f51b5" #default is fff
+menu_primary = "#4267b2" #default is fff. Alternatively try 3f51b5
 menu_text = "#fff" #default is 34495e
-menu_text_active = "#7e90f2" #default is 2962ff
+menu_text_active = "#6f97e8" #default is 2962ff. Alternatively 7e90f2
 menu_title = "#fff" #default is 2b2b2b
 
 # Home sections
