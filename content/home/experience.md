@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Postdoctoral Associate w/ Luke Lavis & Martin Schnermann"
+  title = "Postdoctoral Associate w/ [Luke Lavis](https://www.janelia.org/lavis-lab) & [Martin Schnermann](https://ccr.cancer.gov/Chemical-Biology-Laboratory/martin-j-schnermann)"
   company = "HHMI-Janelia Research Institute"
   company_url = "https://www.janelia.org"
   location = "Virginia, USA"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 #  * Deploying
 #  """
 [[experience]]
-  title = "Graduate Student w/ Scott T. Laughlin"
+  title = "Graduate Student w/ [Scott T. Laughlin](https://www.laughlinlab.com)"
   company = "Stony Brook University"
   company_url = "https://www.stonybrook.edu"
   location = "New York, USA"
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   date_end = "2019-05-31"
 #  description = """Taught electronic engineering and researched semiconductor physics."""
 [[experience]]
-  title = "POCE Fellowship w/ Jayanta Haldar"
+  title = "POCE Fellowship w/ [Jayanta Haldar](http://www.jncasr.ac.in/jayanta)"
   company = "JNCASR"
   company_url = "http://www.jncasr.ac.in/fe/poce.php"
   location = "Bangalore, India"
