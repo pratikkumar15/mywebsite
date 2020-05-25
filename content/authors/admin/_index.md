@@ -18,7 +18,7 @@ organizations:
   url: "https://www.janelia.org"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include.
+bio: My current research interests include chemigenetic probes and light-induced pharmacology.
 
 interests:
 - Chemigenetic Probes
