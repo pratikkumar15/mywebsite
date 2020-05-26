@@ -89,12 +89,12 @@
 
       {{ with $person.education }}
          <div class="col-md-7">
-           <h3>Education</h3>
+           <h3>{{ i18n "education" | markdownify }}</h3>
            <ul class="ul-edu fa-ul">
              {{ range .courses }}
             <li>
             	{{ if .iconed }}
-               <img src= "{{ $.Site.BaseURL }}img/{{ .iconed }}" style ="position: absolute; left: -1.7rem;   top: 0.45em; height:1.5rem;">
+               <img src= "{{ $.Site.BaseURL }}/img/{{ .iconed }}" style ="position: absolute; left: -1.7rem;   top: 0.45em; height:1.5rem;">
                {{ else }}
                <i class ="fa-li fas fa-graduation-cap"></i>
                {{ end }}
