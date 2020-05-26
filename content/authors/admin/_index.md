@@ -34,7 +34,7 @@ education:
   - course: PhD, Chemistry
     institution: Stony Brook University, New York, US
     year: 2019
-    iconed: "iconed/SBU.png"
+    iconed: iconed/SBU.png
 
   - iconed: "iconed/IISER.png"
     course: MS and BS, Chemistry
