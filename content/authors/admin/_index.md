@@ -31,9 +31,11 @@ education:
 #  - course: Postdoc
 #    institution: HHMI-Janelia Research Institute
 #    year: "2019-current"
-  - course: PhD, Chemistry
+  - iconed: "/iconed/ENS.png" 
+    course: PhD, Chemistry
     institution: Stony Brook University, New York, US
     year: 2019
+
   - course: MS and BS, Chemistry
     institution: IISER-K, Kolkata, IN
     year: 2013
