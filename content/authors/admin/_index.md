@@ -31,23 +31,23 @@ education:
 #  - course: Postdoc
 #    institution: HHMI-Janelia Research Institute
 #    year: "2019-current"
-  - iconed: "/SBU.png"
+  - iconed: "/static/SBU.png"
     course: PhD, Chemistry
     institution: Stony Brook University, New York, US
     year: 2019
 
-  - iconed: "/IISER.png"
+  - iconed: "/static/IISER.png"
     course: MS and BS, Chemistry
     institution: IISER-K, Kolkata, IN
     year: 2013
-  - iconed: "/JNCASR.png"
+  - iconed: "/static/JNCASR.png"
     course: Diploma, Chemistry
     institution: JNCASR, Bangalore, IN
     year: 2009-11
   - course: Scientists Teaching Science
     institution: Certificate
     year: 2020
-  - iconed: "/MBL.png"
+  - iconed: "/static/MBL.png"
     course: OMIBS
     institution: Marine Biological Laboratory, Woods Hole, US
     year: 2018
