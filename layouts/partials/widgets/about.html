@@ -94,9 +94,9 @@
              {{ range .courses }}
             <li>
             	{{ if .iconed }}
-               <img src= "{{ $.Site.BaseURL }}img/{{ .iconed }}" style ="height:1rem; float:left; padding-right: 5px;">
+               <img src= "{{ $.Site.BaseURL }}img/{{ .iconed }}" style ="position: absolute; left: -1.7rem;   top: 0.45em; height:1.5rem;">
                {{ else }}
-               <i class ="fa-li fas fa-university"></i>
+               <i class ="fa-li fas fa-graduation-cap"></i>
                {{ end }}
                <div class="description">
                  <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
