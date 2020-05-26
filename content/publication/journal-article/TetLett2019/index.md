@@ -29,10 +29,9 @@ abstract: As a neurotransmitter, the amino acid glutamate has been the subject o
 summary:
 
 tags:
-- Caged Cyclopropene
+- Bioorthogonal Neurotransmitter
 - Cyclopropene
-- Tetrazine Ligation
-- Activatable Bioorthogonal Reaction
+- Cyclopropene Glutamate
 featured: false
 
 # links:
