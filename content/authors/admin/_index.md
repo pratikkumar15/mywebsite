@@ -31,7 +31,7 @@ education:
 #  - course: Postdoc
 #    institution: HHMI-Janelia Research Institute
 #    year: "2019-current"
-  - iconed: "/iconed/SBU.png"
+  - iconed: "/iconed/ENS.png"
     course: PhD, Chemistry
     institution: Stony Brook University, New York, US
     year: 2019
