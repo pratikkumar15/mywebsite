@@ -34,20 +34,20 @@ education:
   - course: PhD, Chemistry
     institution: Stony Brook University, New York, US
     year: 2019
-    iconed: iconed/SBU.png
+    uniicon: uni_icon/SBU.png
 
-  - iconed: "iconed/IISER.png"
+  - uniicon: uni_icon/IISER.png
     course: MS and BS, Chemistry
     institution: IISER-K, Kolkata, IN
     year: 2013
-  - iconed: "iconed/JNCASR.png"
+  - uniicon: uni_icon/JNCASR.png
     course: Diploma, Chemistry
     institution: JNCASR, Bangalore, IN
     year: 2009-11
   - course: Scientists Teaching Science
     institution: Certificate
     year: 2020
-  - iconed: "iconed/MBL.png"
+  - uniicon: uni_icon/MBL.png
     course: OMIBS
     institution: Marine Biological Laboratory, Woods Hole, US
     year: 2018
