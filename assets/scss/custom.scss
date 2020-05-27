@@ -118,7 +118,29 @@ list as they both use h3 heading. h3 attribute is defined separately for those t
 }
 
 
+.mt-0 {
+    font-family: $sta-font-heading, sans-serif;
+  font-weight: 600;
+  margin-top: 0.5rem;
+  margin-bottom: .5rem;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+  font-style: italic;
+  margin-left: auto;
+}
 
+.col-12.col-lg-4 h1{
+  font-family: $sta-font-heading, sans-serif;
+  font-weight: 600;
+  margin-top: 0.5rem;
+  margin-bottom: .5rem;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+  font-style: italic;
+  margin-left: auto;
+}
 
 /*************************************************
  *  Widgets (common)
