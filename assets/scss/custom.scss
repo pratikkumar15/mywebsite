@@ -336,13 +336,13 @@ ul.network-icon {
 ul.ul-interests li {
   font-size: 0.9rem;
   list-style-type: square;
-  margin-left: -1rem;
+  margin-left: 1rem;
   margin-top: 0.1em;
 }
 
 ul.ul-edu {
   list-style: none;
-  margin-left: 1.9rem;
+  margin-left: 3.75rem;
 }
 
 ul.ul-edu li {
@@ -367,6 +367,17 @@ p {
 text-align: justify;
 }
 
+h3 {
+  font-family: $sta-font-heading, sans-serif;
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+  margin-left: 2rem
+
+}
 /*************************************************
  * Experience
  **************************************************/
