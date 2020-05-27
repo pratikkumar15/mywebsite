@@ -1,5 +1,5 @@
 ---
-title: "Modular Enzyme- And Light-Based Activation of Cyclopropene-Tetrazine Ligation"
+title: "Modular Enzyme- and Light-Based Activation of Cyclopropene-Tetrazine Ligation"
 authors:
 - Ting Jiang
 - admin
