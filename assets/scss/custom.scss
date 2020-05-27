@@ -103,6 +103,22 @@
   color: #b2b2b2;
 }
 
+/*This is to separate heading of publications from Education and ul-interests
+list as they both use h3 heading. h3 attribute is defined separately for those two. Scroll-down*/
+.article-title {
+    font-family: $sta-font-heading, sans-serif;
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+  font-style: normal;
+  margin-left: auto;
+}
+
+
+
 
 /*************************************************
  *  Widgets (common)
@@ -337,13 +353,13 @@ ul.network-icon {
 ul.ul-interests li {
   font-size: 0.9rem;
   list-style-type: square;
-  margin-left: -0.5rem;
+  margin-left: 1rem;
   margin-top: 0.1em;
 }
 
 ul.ul-edu {
   list-style: none;
-  margin-left: 2.5rem;
+  margin-left: 3.77rem;
 }
 
 ul.ul-edu li {
@@ -368,7 +384,19 @@ p {
 text-align: justify;
 }
 
+/*This is to move and italicize  Education and Interests without affecting publications section-heading
+which has a separate class and defined at the begining of this css*/
 
+h3 {
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+  font-style: italic;
+  margin-left: 1.5em;
+}
 
 
 /*************************************************
