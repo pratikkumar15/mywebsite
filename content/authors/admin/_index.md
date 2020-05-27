@@ -25,6 +25,9 @@ interests:
 - Photopharmacology
 - Biological Imaging
 - Bioorthogonal Probes
+- Effective Mentoring
+- Diversity in Science
+- Communicating Science to Public
 
 education:
   courses:
