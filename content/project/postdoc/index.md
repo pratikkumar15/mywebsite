@@ -1,6 +1,6 @@
 ---
 title: In Progress!
-summary: Come back later to see if I did anyhting useful :-)
+summary: Come back later to see if I did anything useful ;-)
 tags:
 - Fluorophore
 date: "2011-04-16T00:00:00Z"
