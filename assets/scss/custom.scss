@@ -106,7 +106,6 @@
 /*This is to separate heading of publications from Education and ul-interests
 list as they both use h3 heading. h3 attribute is defined separately for those two. Scroll-down*/
 .article-title.mb-0.mt-0 {
-  font-family: $sta-font-heading, sans-serif;
   font-weight: 600;
   margin-top: 1rem;
   margin-bottom: .5rem;
@@ -115,10 +114,11 @@ list as they both use h3 heading. h3 attribute is defined separately for those t
   text-rendering: optimizeLegibility;
   font-style: normal;
   margin-left: auto;
+  font-size: 1.1em;
 }
 
 .mt-0 {
-    font-family: $sta-font-heading, sans-serif;
+  font-family: $sta-font-heading, sans-serif;
   font-weight: 600;
   margin-top: 0.5rem;
   margin-bottom: .5rem;
@@ -129,6 +129,14 @@ list as they both use h3 heading. h3 attribute is defined separately for those t
   margin-left: auto;
 }
 
+.article-container h1 {
+  font-size: 1.4em;
+  font-weight: 600;
+}
+
+.article-metadata {
+  font-size: 0.8 em;
+}
 
 .col-12 h1{
   font-family: $sta-font-heading, sans-serif;
