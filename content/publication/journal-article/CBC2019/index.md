@@ -43,7 +43,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: 'https://chemistry-europe.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fcbic.201900137&file=cbic201900137-sup-0001-misc_information.pdf'
 url_poster: ''
-url_project: '/content/project/cagedcp/'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -60,7 +60,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- cagedcp
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
