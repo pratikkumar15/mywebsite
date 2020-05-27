@@ -35,8 +35,8 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
+# - name: "News Coverage"
+#   url: 'bit.ly/2t5yzJT'
 url_pdf: ''
 url_code: ''
 url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/la302303d/suppl_file/la302303d_si_001.pdf'
