@@ -134,6 +134,10 @@ list as they both use h3 heading. h3 attribute is defined separately for those t
   font-weight: 600;
 }
 
+.article-container h3 {
+  margin-left: auto;
+}
+
 .article-metadata {
   font-size: 0.8 em;
 }
