@@ -1,6 +1,6 @@
 ---
 title: Olfactory Circuit Labeling
-summary: Fluorescent boronic acid probe as trans-synaptic tracer of neural circuitry
+summary: Attempts at testing fluorescent boronic acid probe as trans-synaptic tracer of neural circuitry
 tags:
 - Boronic Acids
 - Neural Circuit Labeling

@@ -1,6 +1,6 @@
 ---
 title: Caged Cyclopropenes
-summary: Design of a truly modular activation strategy to control the bioorthogonal reactions of cyclopropene via light or enzyme.
+summary: Design of a modular activation strategy to control the bioorthogonal reaction of cyclopropenes via light or enzyme.
 tags:
 - Caged Cyclopropene
 - Cyclopropene
