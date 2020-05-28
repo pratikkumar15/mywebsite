@@ -37,11 +37,7 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </h3>
 
-    {{ with $summary }}
-    <div class="article-style">
-      {{ . }}
-    </div>
-    {{ end }}
+    <!--  This was defualt location for article abstract. Moving it below -->
 
     <div class="stream-meta article-metadata">
 
@@ -64,6 +60,15 @@
       {{ else if not $show_authors_only }}
         {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
       {{ end }}
+      
+<!--  This is article abstract. Moved this down to show authors and journal name before abstract -->
+      {{ with $summary }}
+      <div class="article-style">
+        {{ . }}
+      </div>
+
+      {{ end }}
+
     </div>
 
     {{ if $show_buttons }}

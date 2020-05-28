@@ -1,5 +1,5 @@
 ---
-title: "Caged Cyclopropenes With Improved Tetrazine Ligation Kinetics"
+title: "Caged Cyclopropenes with Improved Tetrazine Ligation Kinetics"
 authors:
 - admin
 - Omar Zainul
