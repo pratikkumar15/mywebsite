@@ -194,6 +194,19 @@ list as they both use h3 heading. h3 attribute is defined separately for those t
   min-height: 70px;
 }
 
+/* To number publications. Set c1 as total number of publications */
+.universal-wrapper {
+counter-reset: c1 11; /* Ser this c1 manuallu */
+}
+.grid-sizer.col-lg-12.isotope-item {
+counter-increment: c1 -1;
+}
+.article-metadata.li-cite-author:before {
+content: counter(c1) ".";
+width: 1.5em;
+font-weight: bold;
+}
+
 /*************************************************
  *  Widgets (common)
  **************************************************/
