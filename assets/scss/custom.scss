@@ -203,8 +203,12 @@ counter-increment: c1 -1;
 }
 .article-metadata.li-cite-author:before {
 content: counter(c1) ".";
-width: 2em;
 font-weight: bold;
+text-align: right;
+margin-right: 10px;
+width: 1.2em;
+text-align: right;
+display: inline-block;
 }
 
 /*************************************************
