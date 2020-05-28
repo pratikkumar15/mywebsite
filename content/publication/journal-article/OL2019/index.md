@@ -43,7 +43,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.9b01177/suppl_file/ol9b01177_si_001.pdf'
 url_poster: ''
-url_project: '/project/cagedcp'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -61,7 +61,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- cagedcp
+- cagedcyclopropene
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

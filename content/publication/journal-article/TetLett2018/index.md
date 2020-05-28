@@ -44,7 +44,7 @@ url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6190722/
 url_code: ''
 url_dataset: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6190722/bin/NIHMS986752-supplement-SI.pdf'
 url_poster: ''
-url_project: '/project/spirocpsyn'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -62,7 +62,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- spirocpsyn
+- spirocyclopropyl
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

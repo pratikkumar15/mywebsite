@@ -38,7 +38,7 @@ url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6150495/
 url_code: ''
 url_dataset: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6150495/bin/NIHMS985383-supplement-Supporting_Information.pdf'
 url_poster: ''
-url_project: '/project/neurotransmitter'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -56,7 +56,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- neurotransmitter
+- bioorthogonalneurotransmitter
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

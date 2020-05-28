@@ -38,7 +38,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: 'http://www.rsc.org/suppdata/c7/ob/c7ob02659e/c7ob02659e1.pdf'
 url_poster: ''
-url_project: '/project/spirocpsyn'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -56,7 +56,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- spirocpsyn
+- spirocyclopropyl
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

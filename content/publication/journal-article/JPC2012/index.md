@@ -39,7 +39,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/jp305590f/suppl_file/jp305590f_si_001.pdf'
 url_poster: ''
-url_project: '/project/surfactant'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -57,7 +57,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- surfactant
+- geminisurfactant
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -41,7 +41,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: 'https://ars.els-cdn.com/content/image/1-s2.0-S004040391930406X-mmc1.pdf'
 url_poster: ''
-url_project: '/project/neurotransmitter'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -59,7 +59,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- neurotransmitter
+- bioorthogonalneurotransmitter
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
