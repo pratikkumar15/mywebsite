@@ -144,17 +144,18 @@ list as they both use h3 heading. h3 attribute is defined separately for those t
 }
 
 /* Changing the font size of page sections and italicizing them */
-.col-12 h1{
+/* Removed font-color to fix dark mode heading color */
+.col-12.col-lg-4.section-heading h1{
   font-family: $sta-font-heading, sans-serif;
   font-weight: 600;
   margin-top: -0.15em;
   margin-bottom: .5rem;
   line-height: 1.25;
-  color: #313131;
   text-rendering: optimizeLegibility;
   font-style: italic;
   margin-left: auto;
 }
+
 
 /* To make sure that experience cards don't italicize */
 .card-title.exp-title.text-muted.mt-0.mb-1 {
@@ -210,6 +211,12 @@ margin-right: 5px;
 text-align: right;
 display: inline-block;} */
 
+/* default footer margin is 0 0 0 and padding is 2rem 0*/
+footer {
+  margin: 0 0 0;
+  padding: 1rem 0;
+  width: 100%;
+}
 /*************************************************
  *  Widgets (common)
  **************************************************/
