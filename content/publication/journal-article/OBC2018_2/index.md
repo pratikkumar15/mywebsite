@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Tetrahedron Letters*, 60(22), 1476-1480"
+publication: "*Organic and Biomolecular Chemistry*, 16(22), 4081-4085"
 publication_short: ""
 
 abstract: Bioorthogonal ligations have been designed and optimized to provide new experimental avenues for understanding biological systems. Generally, these optimizations have focused on improving reaction rates and orthogonality to both biology and other members of the bioorthogonal reaction repertoire. Less well explored are reactions that permit control of bioorthogonal reactivity in space and time. Here we describe a strategy that enables modular control of the cyclopropene-tetrazine ligation. We developed 3-N-substituted spirocyclopropenes that are designed to be unreactive towards 1,2,4,5-tetrazines when bulky N-protecting groups sterically prohibit the tetrazine's approach, and reactive once the groups are removed. We describe the synthesis of 3-N spirocyclopropenes with an appended electron withdrawing group to promote stability. Modification of the cyclopropene 3-N with a bulky, light-cleavable caging group was effective at stifling its reaction with tetrazine, and the caged cyclopropene was resistant to reaction with biological nucleophiles. As expected, upon removal of the light-labile group, the 3-N cyclopropene reacted with tetrazine to form the expected ligation product both in solution and on a tetrazine-modified protein. This reactivity caging strategy leverages the popular carbamate protecting group linkage, enabling the use of diverse caging groups to tailor the reaction's activation modality for specific applications.
