@@ -450,13 +450,13 @@ ul.network-icon {
 ul.ul-interests li {
   font-size: 0.9rem;
   list-style-type: square;
-  margin-left: 1rem;
+  margin-left: -1.2em;
   margin-top: 0.1em;
 }
 
 ul.ul-edu {
   list-style: none;
-  margin-left: 3.77rem;
+  margin-left: 5.7rem;
 }
 
 ul.ul-edu li {
@@ -473,7 +473,7 @@ ul.ul-edu li .description p.course {
 }
 
 ul.ul-edu li .description p.institution {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   color: rgba(0,0,0,0.6);
 }
 
@@ -484,15 +484,24 @@ text-align: justify;
 /*This is to move and italicize  Education and Interests without affecting publications section-heading
 which has a separate class and defined at the begining of this css*/
 
-h3 {
+.col-md-7 h3 {
   font-weight: 600;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   margin-bottom: .5rem;
   line-height: 1.25;
-  color: #313131;
   text-rendering: optimizeLegibility;
   font-style: normal;
-  margin-left: 1.5em;
+  margin-left: 3.1em;
+}
+
+.col-md-5 h3 {
+
+  margin-top: 0.5rem;
+  margin-bottom: .5rem;
+  line-height: 1.25;
+  text-rendering: optimizeLegibility;
+  font-style: normal;
+
 }
 
 
