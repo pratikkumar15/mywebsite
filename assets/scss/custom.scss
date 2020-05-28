@@ -194,20 +194,21 @@ list as they both use h3 heading. h3 attribute is defined separately for those t
   min-height: 70px;
 }
 
-/* To number publications. Set c1 as total number of publications */
+/* To number publications. Set c1 as total number of publications. Upon search numbering starts from 10 which is not good */
+
+/*
 .universal-wrapper {
-counter-reset: c1 11; /* Set this c1 manually */
-}
-.grid-sizer.col-lg-12.isotope-item {
-counter-increment: c1 -1;
-}
-.article-metadata.li-cite-author:before {
+counter-reset: c1 11;}  Set this c1 manually */
+
+/*.grid-sizer.col-lg-12.isotope-item {
+counter-increment: c1 -1;} */
+
+/*  .article-metadata.li-cite-author:before {
 content: counter(c1) ".";
 font-weight: bold;
 margin-right: 5px;
 text-align: right;
-display: inline-block;
-}
+display: inline-block;} */
 
 /*************************************************
  *  Widgets (common)
