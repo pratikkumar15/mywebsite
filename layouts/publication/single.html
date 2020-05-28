@@ -1,0 +1,22 @@
+{{- define "main" -}}
+
+<div class="pub">
+
+  {{ partial "page_header.html" . }}
+
+  <div class="article-container">
+
+  
+
+    <div class="article-style">{{ .Content }}</div>
+
+    {{ if .Params.abstract }}
+    <h3>{{ i18n "abstract" }}</h3>
+    <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
+    {{ end }}
+
+    {{ partial "page_footer" . }}  <!-- this code pulls other pages to add below pub abstract -->
+
+  </div>
+</div>
+{{- end -}}
