@@ -1,6 +1,6 @@
 ---
 title: Bactericidal Gemini Surfactants
-summary: Biodegradable surfactants that kill bacterial cells but not the mammalian cells
+summary: Biodegradable cationic surfactants that kill bacterial cells but not mammalian cells
 tags:
 - Biodegradable Bactericidals
 - Gemini Surfactants

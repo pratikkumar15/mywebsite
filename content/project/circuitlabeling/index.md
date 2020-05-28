@@ -1,12 +1,12 @@
 ---
 title: Olfactory Circuit Labeling
-summary: Attempts at testing fluorescent boronic acid probe as trans-synaptic tracer of neural circuitry
+summary: Testing fluorescent boronic acid probes as tracers of neural circuitry
 tags:
 - Boronic Acids
 - Neural Circuit Labeling
 - Zebrafish
 - Olfactory Circuit
-- Cyclopropene
+
 date: "2014-05-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -186,9 +186,10 @@ list as they both use h3 heading. h3 attribute is defined separately for those t
     line-height: 1.25;
 }
 
+
 .article-style p {
     line-height: 1.5;
-    text-align: left;
+    text-align: justify;
 }
 
 .card .card-image {
@@ -234,6 +235,9 @@ footer {
   background-color: initial;
 }
 
+.author-card .card-text {
+  text-align: left;
+}
 /*************************************************
  *  Hero Widget
  **************************************************/
@@ -550,6 +554,7 @@ which has a separate class and defined at the begining of this css*/
 .experience .m-2 .border.exp-fill {
   background-color: $sta-primary !important;
 }
+
 
 /*************************************************
  * Talks

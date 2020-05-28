@@ -1,6 +1,6 @@
 ---
-title: Spirocyclopropyl Synthesis and Ligations
-summary: Synthesis of strained spirocyclic systems, cyclic enamines, and their conjugation to lipids
+title: Lipidated Spirocyclopropyls
+summary: Synthesis of spirocyclic systems, cyclic enamines, and their conjugation to lipids
 tags:
 - Cyclic Enamine synthesis
 - Spirocyclopropyls
@@ -32,4 +32,4 @@ url_video: ""
 slides: ""
 ---
 
-Inexpensive, catalyst-free, multigram-scale synthesis for cyclic enamines with exocyclic double bonds and four- to seven-membered rings. This strategy is more conducive to scale up, permissive of functionalization around the cyclic system, and less sensitive to the nature of the N-protecting group than previously-described methods for cyclic enamine synthesis. Further, we explore application of these enamines to the synthesis of highly-strained spirocyclic 3N-cyclopropyl scaffolds. These spirocyclic systems were lipidated to serve as useful bioorthogonal reagents for imaging cell membranes due to the cyclopropene's small size and ability to ligate with pro-fluorescent tetrazines. 
+Inexpensive, catalyst-free, multigram-scale synthesis for cyclic enamines with exocyclic double bonds and four- to seven-membered rings. This strategy is more conducive to scale up, permissive of functionalization around the cyclic system, and less sensitive to the nature of the N-protecting group than previously-described methods for cyclic enamine synthesis. Further, we explore application of these enamines to the synthesis of highly-strained spirocyclic 3N-cyclopropyl scaffolds. These spirocyclic systems were lipidated to serve as useful bioorthogonal reagents for imaging cell membranes due to the cyclopropene's small size and ability to ligate with pro-fluorescent tetrazines.
