@@ -164,7 +164,7 @@ list as they both use h3 heading. h3 attribute is defined separately for those t
 /* Changing the title of related publications on Project page */
 .project-related-pages.content-widget-hr h2{
   font-weight: 600;
-  font-size: 1.25em;
+  font-size: 1.25rem;
   margin-bottom: 2rem;
   text-rendering:optimizeLegibility;
 
@@ -173,6 +173,25 @@ list as they both use h3 heading. h3 attribute is defined separately for those t
 /* Changing the title of related publications on Project page */
 .project-related-pages.content-widget-hr h2::after{
   content: " for this project:";
+}
+
+/* Changing text on project cards */
+.card-text h4 {
+    text-transform: none;
+    font-size: 1rem;
+    text-rendering: optimizeLegibility;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.25;
+}
+
+.article-style p {
+    line-height: 1.5;
+    text-align: left;
+}
+
+.card .card-image {
+  min-height: 70px;
 }
 
 /*************************************************
