@@ -4,6 +4,8 @@ summary: Using light or enzymes to control the bioorthogonal reactions of cyclop
 tags:
 - Caged Cyclopropene
 - Cyclopropene
+- Photoactivatable
+- Enzyme-activatable
 date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -33,4 +35,4 @@ url_video: ""
 slides: ""
 ---
 
-Bioorthogonal ligations have been designed and optimized to provide new experimental avenues for understanding biological systems. Generally, these optimizations have focused on improving reaction rates and orthogonality to both biology and other members of the bioorthogonal reaction repertoire. Less well explored are reactions that permit control of bioorthogonal reactivity in space and time. Here we describe a strategy that enables modular control of the cyclopropene-tetrazine ligation. We describe a modular activation strategy for cyclopropene-tetrazine ligation. This activation strategy uses chemically diverse enzyme- or photolabile protecting groups as cyclopropene reactivity cages. The linkages between the caging groups and cyclopropene are through carbamates, thus permitting the application of diverse cages to allow bioorthogonal reactivity by administering enzymes or light.
+Bioorthogonal ligations have been designed and optimized to provide new experimental avenues for understanding biological systems. Generally, these optimizations have focused on improving reaction rates and orthogonality to both biology and other members of the bioorthogonal reaction repertoire. Bioorthogonal reactions that permit control of bioorthogonal reactivity in space and time are less explored. Here we describe a strategy that enables modular control of the cyclopropene-tetrazine ligation. This activation strategy uses chemically diverse enzyme- or photolabile protecting groups as cyclopropene reactivity cages. The linkages between the caging groups and cyclopropene are through carbamates, thus permitting the application of diverse cages to allow bioorthogonal reactivity by administering enzymes or light.
