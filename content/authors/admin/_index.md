@@ -27,7 +27,7 @@ interests:
 - Bioorthogonal Probes
 - Effective Mentoring
 - Diversity in Science
-- Communicating Science to Public
+- Scientific Awareness
 
 education:
   courses:

@@ -33,4 +33,4 @@ slides: ""
 ---
 
 We have developed an inexpensive, catalyst-free and multigram-scale synthesis of cyclic enamines with exocyclic double bonds, for four to seven-membered rings. This strategy is more conducive to scale up, permissive of functionalization around the cyclic system, and less sensitive to the nature of the N-protecting group than previously-described methods for cyclic enamine synthesis. <br>
-Further, we explore application of these enamines to the synthesis of highly-strained spirocyclic cyclopropenes. We also made lipidated versions of these cyclopropenes that cab serve as useful bioorthogonal reagents for imaging cell membranes due to the cyclopropene's small size and ability to ligate with pro-fluorescent tetrazines.
+Further, we explore application of these enamines to the synthesis of highly-strained spirocyclic cyclopropenes. We also made lipidated versions of these cyclopropenes that can serve as useful bioorthogonal reagents for imaging cell membranes via pro-fluorescent tetrazines.

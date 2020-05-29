@@ -453,14 +453,13 @@ ul.network-icon {
 
 ul.ul-interests li {
   font-size: 0.9rem;
-  list-style-type: square;
-  margin-left: -1.2em;
+  margin-left: -0.8em;
   margin-top: 0.1em;
+  list-style-type:circle;
 }
 
 ul.ul-edu {
   list-style: none;
-  margin-left: 4.7rem;
 }
 
 ul.ul-edu li {
@@ -495,7 +494,6 @@ which has a separate class and defined at the begining of this css*/
   line-height: 1.25;
   text-rendering: optimizeLegibility;
   font-style: normal;
-  margin-left: 2.2em;
 }
 
 .col-md-5 h3 {
