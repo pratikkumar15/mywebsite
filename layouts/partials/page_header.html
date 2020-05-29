@@ -66,9 +66,6 @@
 </div>
 
 <!-- This is the begining of article type and publication display on publications pages -->
-<p></p>
-<p></p>
-
 
 <div class="article-container">
 {{ if (.Params.publication_types) and (ne (index .Params.publication_types 0) "0") }}
@@ -110,7 +107,7 @@
 
 <!-- This is the end of article type and publication display on publications pages -->
 
-<p></p>
+
 
 {{/* Featured image */}}
 <div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-4" style="max-width: {{$image.Width}}px; max-height: {{$image.Height}}px;">
