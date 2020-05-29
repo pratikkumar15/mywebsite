@@ -63,6 +63,7 @@ url_video: ''
 #   Otherwise, set `projects: []`.
 projects:
 - spirocyclopropyl
+- cagedcyclopropene
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
