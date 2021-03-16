@@ -32,7 +32,7 @@ interests:
 education:
   courses:
 #  - course: Postdoc
-#    institution: HHMI-Janelia Research Institute
+#    institution: HHMI-Janelia Research Campus
 #    year: "2019-current"
   - course: PhD, Chemistry
     institution: Stony Brook University, New York, US

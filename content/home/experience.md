@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Postdoctoral Associate w/ [Luke Lavis](https://www.janelia.org/lavis-lab) & [Martin Schnermann](https://ccr.cancer.gov/Chemical-Biology-Laboratory/martin-j-schnermann)"
-  company = "HHMI-Janelia Research Institute"
+  company = "HHMI-Janelia Research Campus"
   company_url = "https://www.janelia.org"
   location = "Virginia, USA"
   date_start = "2019-07-01"
