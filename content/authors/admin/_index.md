@@ -14,7 +14,7 @@ role: HHMI Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Janelia Research Institute
+- name: Janelia Research Campus
   url: "https://www.janelia.org"
 
 # Short bio (displayed in user profile at end of posts)
