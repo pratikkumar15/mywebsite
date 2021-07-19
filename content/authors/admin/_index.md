@@ -21,7 +21,7 @@ organizations:
 bio: My current research interests include chemigenetic probes and light-induced pharmacology.
 
 interests:
-- Chemigenetic Probes
+- Targetable Fluorescent Tools
 - Photopharmacology
 - Biological Imaging
 - Bioorthogonal Probes
