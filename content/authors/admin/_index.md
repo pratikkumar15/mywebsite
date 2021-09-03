@@ -18,7 +18,7 @@ organizations:
   url: "https://www.janelia.org"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests include chemigenetic probes and light-induced pharmacology.
+bio: I am a chemical biologist. I make chemical tools for biology. I use fluorescent dyes to make reagents for cell-biology, chromatin biology, pharmacology, and advanced imaging.
 
 interests:
 - Fluorescent Tools
