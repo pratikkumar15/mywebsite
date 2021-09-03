@@ -1,8 +1,9 @@
 ---
-title: In Progress!
-summary: Come back later to see if I did anything useful ;-)
+title: Multifunctional fluorophores
+summary: Molecular tools beyond imaging
 tags:
-- Fluorophore
+- Fluorophores
+- Genetic labeling
 date: "2011-04-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,4 +31,4 @@ url_video: ""
 slides: ""
 ---
 
-This is currently in progress. Watch this space for progress!
+I have developed a suite of multifunctional dyes that leverage the brightness, fluorogenicity (i.e., non-fluorescent to fluorescent), and tunable cell permeability of Janelia Fluor (JF) dyes to push their utility from solely imaging labeled proteins to also manipulating them via the dye-linked cargo. These multifunctional dyes have three components working in unison: genetic targeting ligand; bright and photostable JF dye for fluorescence readout and small-molecule delivery; and small-molecule cargo. Such multifunctional dyes maintain targetability, fluorescence, and functional cargo that allow us to create superior tools for cell-biology, chromatin biology, pharmacology, and advanced imaging and thus represent a new avenue in the development of dye-based molecular tools. 
