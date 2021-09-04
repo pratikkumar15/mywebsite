@@ -1,6 +1,6 @@
 ---
 title: Multifunctional fluorophores
-summary: Molecular tools beyond imaging
+summary: Fluorescent dyes as molecular tools beyond imaging
 tags:
 - Fluorophore
 - Genetic labeling
