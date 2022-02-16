@@ -16,7 +16,7 @@ date: "2022-02-02T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Annual Review of Neuroscience*, xx(xx), XX-XXX"
+publication: "*Annual Review of Neuroscience*, 45(xx), XX-XXX"
 publication_short: ""
 
 abstract: Unraveling the complexity of the brain requires sophisticated methods to probe and perturb neurobiological processes with high spatiotemporal control. The field of chemical biology has produced general strategies to combine the molecular specificity of small-molecule tools with the cellular specificity of genetically encoded reagents. Here, we survey the application, refinement, and extension of these hybrid small-molecule:protein methods to problems in neuroscience, which yields powerful reagents to precisely measure and manipulate neural systems.
