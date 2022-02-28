@@ -38,7 +38,7 @@ featured: true
 #   url: ""
 url_pdf: ''
 url_code: ''
-# url_dataset: 'https://chemistry-europe.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fcbic.201900137&file=cbic201900137-sup-0001-misc_information.pdf'
+url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/acsbiomedchemau.1c00068/suppl_file/bg1c00068_si_001.pdf'
 url_poster: ''
 url_project: ''
 url_slides: ''
