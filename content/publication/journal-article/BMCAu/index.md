@@ -8,7 +8,7 @@ authors:
 - Timothy Brown
 - Luke D. Lavis
 date: "2022-02-01T00:00:00Z"
-# doi: "10.1002/cbic.201900137"
+doi: "10.1021/acsbiomedchemau.1c00068"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
