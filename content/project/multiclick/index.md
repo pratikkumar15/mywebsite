@@ -1,10 +1,10 @@
 ---
-title: "Side Projects!"
-summary: A collection of biologically useful tools
+title: "Multiclick dyes"
+summary: Far-red emitting dyes that turn on upon bioorthogonal activation
 tags:
 - Fluorophore
 - Genetic labeling
-- Photoactivatable
+- Click
 
 date: "2011-04-16T00:00:00Z"
 
@@ -33,4 +33,4 @@ url_video: ""
 slides: ""
 ---
 
-A collection of biologically useful tools
+Far-red emitting dyes that turn on upon bioorthogonal activation
