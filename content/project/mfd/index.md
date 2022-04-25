@@ -1,6 +1,6 @@
 ---
-title: Multifunctional fluorophores
-summary: Fluorescent dyes as molecular tools beyond imaging
+title: Multifunctional dyes
+summary: Visualizing and manipulating biomolecules
 tags:
 - Fluorophore
 - Genetic labeling
@@ -31,4 +31,4 @@ url_video: ""
 slides: ""
 ---
 
-I have developed a suite of multifunctional dyes that leverage the brightness, fluorogenicity (i.e., non-fluorescent to fluorescent), and tunable cell permeability of Janelia Fluor (JF) dyes to push their utility from solely imaging labeled proteins to also manipulating them via the dye-linked cargo. These multifunctional dyes have three components working in unison: genetic targeting ligand; bright and photostable JF dye for fluorescence readout and small-molecule delivery; and small-molecule cargo. Such multifunctional dyes maintain targetability, fluorescence, and functional cargo that allow us to create superior tools for cell-biology, chromatin biology, pharmacology, and advanced imaging. This  represents a new avenue in the development of dye-based molecular tools. 
+I have developed a suite of multifunctional dyes that leverage the brightness, fluorogenicity (i.e., non-fluorescent to fluorescent), and tunable cell permeability of Janelia Fluor (JF) dyes to push their utility from solely imaging labeled proteins to also manipulating them via the dye-linked cargo. These multifunctional dyes have three components working in unison: genetic targeting ligand; bright and photostable JF dye for fluorescence readout and small-molecule delivery; and small-molecule cargo. Such multifunctional dyes maintain targetability, fluorescence, and functional cargo that allow us to create superior tools for cell-biology, chromatin biology, pharmacology, and advanced imaging. This  represents a new avenue in the development of dye-based molecular tools.
