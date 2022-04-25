@@ -1,6 +1,6 @@
 ---
-title: Single-molecule imaging
-summary: Developing new single molecule imaging dyes
+title: Single-molecule imaging dyes
+summary: Novel photoactivatable rhodamine dyes for single particle tracking
 tags:
 - Fluorophore
 - Single molecule
