@@ -1,6 +1,6 @@
 ---
 title: "Multiclick dyes"
-summary: Far-red emitting dyes that turn on upon bioorthogonal activation
+summary: Far-red emitting dyes that fluoresce upon bioorthogonal activation
 tags:
 - Fluorophore
 - Genetic labeling
