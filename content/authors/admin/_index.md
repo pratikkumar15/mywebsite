@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pratik Kumar
+title: Pratik Kumar, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -22,9 +22,9 @@ bio: I am a chemical biologist and I make chemical tools for biology.
 
 interests:
 - Fluorescent Tools
-- Photopharmacology
+- Bioorthogonal Reagents
 - Biological Imaging
-- Bioorthogonal Probes
+- Biomolecule Manipulation
 - Effective Mentoring
 - Diversity in Science
 - Scientific Awareness
@@ -93,5 +93,5 @@ email: ""
 #- Visitors
 ---
 
-&emsp;&emsp;I am an HHMI postdoc with <a href="https://www.janelia.org/lab/lavis-lab" target="_blank">Luke Lavis</a> (Janelia). I use fluorescent dyes to make reagents for cell biology, neuroscience, Photopharmacology, and imaging.
-<br>&emsp;&emsp;During my PhD with <a href="https://www.laughlinlab.com" target="_blank">Scott Laughlin</a>, I made light and enzyme-controlled cyclopropenes for bioorthogonal labeling/imaging in cellular systems. Before coming to the US, as an undergrad, I worked on bactericidal, cationic gemini surfactants with <a href="https://www.jncasr.ac.in/jayanta" target="_blank">Jayanta Haldar</a>.<br>&emsp;&emsp;I strongly care about effective mentoring, diversity in academia, awareness about alternative career options, and communicating my science to public.
+&emsp;&emsp;I am an HHMI postdoc with <a href="https://www.janelia.org/lab/lavis-lab" target="_blank">Luke Lavis</a> (Janelia). I use fluorescent dyes to make reagents for cell biology, neuroscience, pharmacology, and imaging.
+<br>&emsp;&emsp;During my PhD with <a href="https://www.laughlinlab.com" target="_blank">Scott Laughlin</a>, I made light and enzyme-controlled cyclopropenes for bioorthogonal labeling/imaging in cellular systems. Before coming to the US, as an undergrad, I worked on bactericidal, cationic gemini surfactants with <a href="https://www.jncasr.ac.in/jayanta" target="_blank">Jayanta Haldar</a>.<br>&emsp;&emsp;I strongly care about effective mentoring, diversity in academia, awareness about "alternative" career options, and communicating my science to public.
