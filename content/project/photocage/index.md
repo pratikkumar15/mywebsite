@@ -1,6 +1,6 @@
 ---
 title: "Yellow/Far-red photocages"
-summary: Yellow or red-light removable photocages for spatiotemporal release
+summary: Yellow or red-light removable photocages for spatiotemporal release of small molecules
 tags:
 - Fluorophore
 - Photoactivatable
