@@ -18,7 +18,7 @@ doi: "10.1101/2022.07.02.498544"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Bioarxiv*"
+publication: "*bioRxiv*"
 publication_short: ""
 
 abstract: The development of enzyme-based self-labeling tags allow the labeling of proteins in living cells with synthetic small-molecules. Use of a fluorophore-containing ligand enables the visualization of protein location inside cells using fluorescence microscopy. Alternatively, deployment of a biotin-containing ligand allows purification of tagged protein using affinity resins. Despite these various applications of self labeling tags, most ligands serve a single purpose. Here, we describe self labeling tag ligands that allow both visualization and subsequent capture of a protein. A key design principle is exploiting the chemical properties and size of a rhodamine fluorophore to optimize cell-permeability of the ligand and the capture efficiency of the biotin conjugate. This work generates useful "multifunctional" fluorophores with generalizable design principles that will allow the construction of new tools for biology.
