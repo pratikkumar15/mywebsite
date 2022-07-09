@@ -2,7 +2,7 @@
 title: "Aggregation Properties of Amide Bearing Cleavable Gemini Surfactants by Small Angle Neutron Scattering and Conductivity Studies"
 authors:
 - Jiaul Hoque
-- admin
+- Pratik Kumar
 - Vinod K. Aswal
 - Jayanta Haldar
 date: "2012-07-18T00:00:00Z"

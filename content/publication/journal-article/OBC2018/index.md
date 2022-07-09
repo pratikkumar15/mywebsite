@@ -1,7 +1,7 @@
 ---
 title: "Inexpensive Multigram-Scale Synthesis of Cyclic Enamines and 3-*N* Spirocyclopropyl Systems"
 authors:
-- admin
+- Pratik Kumar
 - Omar Zainul
 - Scott T. Laughlin
 date: "2018-01-24T00:00:00Z"

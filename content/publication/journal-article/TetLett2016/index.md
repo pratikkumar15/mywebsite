@@ -1,7 +1,7 @@
 ---
 title: "A Photocaged, Cyclopropene-Containing Analog of the Amino Acid Neurotransmitter Glutamate"
 authors:
-- admin
+- Pratik Kumar
 - David Shukhman
 - Scott T. Laughlin
 date: "2016-09-27T00:00:00Z"

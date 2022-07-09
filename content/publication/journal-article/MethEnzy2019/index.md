@@ -1,7 +1,7 @@
 ---
 title: "Modular Activatable Bioorthogonal Reagents"
 authors:
-- admin
+- Pratik Kumar
 - Scott T. Laughlin
 date: "2019-03-06T00:00:00Z"
 doi: "10.1016/bs.mie.2019.02.007"

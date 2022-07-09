@@ -1,7 +1,7 @@
 ---
 title: "Caged Cyclopropenes with Improved Tetrazine Ligation Kinetics"
 authors:
-- admin
+- Pratik Kumar
 - Omar Zainul
 - Frank M. Camarda
 - Ting Jiang

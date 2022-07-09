@@ -1,7 +1,7 @@
 ---
 title: "Lipidated Cyclopropenes via a Stable 3-N Spirocyclopropene Scaffold "
 authors:
-- admin
+- Pratik Kumar
 - Ting Jiang
 - Omar Zainul
 - Alyssa N. Preston

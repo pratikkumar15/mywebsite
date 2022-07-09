@@ -5,7 +5,7 @@ authors:
 - Padma Akkapeddi
 - Venkateswarlu Yarlagadda
 - Divakara SSM Uppu
-- admin
+- Pratik Kumar
 - Jayanta Haldar
 date: "2012-07-30T00:00:00Z"
 doi: "10.1021/la302303d"

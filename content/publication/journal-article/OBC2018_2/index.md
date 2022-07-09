@@ -1,7 +1,7 @@
 ---
 title: "Caged Cyclopropenes for Controlling Bioorthogonal Reactivity"
 authors:
-- admin
+- Pratik Kumar
 - Ting Jiang
 - Sining Li
 - Omar Zainul

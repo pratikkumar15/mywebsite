@@ -1,7 +1,7 @@
 ---
 title: "Multifunctional fluorophores for live-cell imaging and affinity capture of proteins"
 authors:
-- admin
+- Pratik Kumar
 - Jason D. Vevea
 - Edwin R. Chapman
 - Luke D. Lavis

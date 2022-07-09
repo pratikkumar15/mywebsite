@@ -2,7 +2,7 @@
 title: "Modular Enzyme- and Light-Based Activation of Cyclopropene-Tetrazine Ligation"
 authors:
 - Ting Jiang
-- admin
+- Pratik Kumar
 - Wei Huang
 - Wei-Siang Kao
 - Adrian O. Thompson

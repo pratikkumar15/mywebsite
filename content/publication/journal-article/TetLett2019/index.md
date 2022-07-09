@@ -1,7 +1,7 @@
 ---
 title: "Stable Cyclopropene-Containing Analogs of the Amino Acid Neurotransmitter Glutamate"
 authors:
-- admin
+- Pratik Kumar
 - Wei Huang
 - David Shukhman
 - Frank M. Camarda
