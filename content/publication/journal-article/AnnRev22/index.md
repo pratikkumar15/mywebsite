@@ -1,6 +1,6 @@
 ---
 title: "Melding synthetic molecules and genetically encoded proteins to forge new tools for neuroscience"
-authorsr
+authors
 - Pratik Kumar
 - Luke D. Lavis
 date: "2022-02-02T00:00:00Z"
