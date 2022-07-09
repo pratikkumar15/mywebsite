@@ -4,7 +4,7 @@ authors:
 - Sambashiva Banala
 - Ariana Tkachuk
 - Ronak Patel
-- admin
+- Pratik Kumar
 - Timothy Brown
 - Luke D. Lavis
 date: "2022-02-01T00:00:00Z"
@@ -20,7 +20,7 @@ doi: "10.1021/acsbiomedchemau.1c00068"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ACS Bio & Med Chem Au*, xx(xx), XX-XXX"
+publication: "*ACS Bio & Med Chem Au*, 2(3), 307-312"
 publication_short: ""
 
 abstract: Small-molecule fluorescent stains enable the imaging of cellular structures without the need for genetic manipulation. Here, we introduce 2,7-diaminobenzopyrylium (DAB) dyes as live-cell mitochondrial stains excited with violet light. This amalgam of the coumarin and rhodamine fluorophore structures yields dyes with high photostability and tunable spectral properties.
