@@ -4,7 +4,7 @@ authors:
 - Pratik Kumar
 - Luke D. Lavis
 date: "2022-02-02T00:00:00Z"
-doi: "10.1146/annurev-neuro-110520-030031"
+doi: "http://www.annualreviews.org/eprint/REGKYVNE4KVWXECQBEA6/full/10.1146/annurev-neuro-110520-030031"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
