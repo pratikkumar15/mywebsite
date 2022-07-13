@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Postdoctoral Associate w/ [Luke Lavis](https://www.janelia.org/lab/lavis-lab) & [Martin Schnermann](https://ccr.cancer.gov/Chemical-Biology-Laboratory/martin-j-schnermann)"
+  title = "HHMI Postdoctoral Associate w/ [Luke Lavis](https://www.janelia.org/lab/lavis-lab)"
   company = "HHMI-Janelia Research Campus"
   company_url = "https://www.janelia.org"
   location = "Virginia, USA"
