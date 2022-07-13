@@ -29,10 +29,10 @@ tags:
 - Genetic labeling
 featured: true
 
- links:
- - name: "Free copy"
-   url: "http://www.annualreviews.org/eprint/REGKYVNE4KVWXECQBEA6/full/10.1146/annurev-neuro-110520-030031"
-url_pdf: ''
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'http://www.annualreviews.org/eprint/REGKYVNE4KVWXECQBEA6/full/10.1146/annurev-neuro-110520-030031'
 url_code: ''
 #url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/acsbiomedchemau.1c00068/suppl_file/bg1c00068_si_001.pdf'
 url_poster: ''
