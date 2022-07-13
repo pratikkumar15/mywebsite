@@ -3,7 +3,7 @@ title: "Melding synthetic molecules and genetically encoded proteins to forge ne
 authors:
 - Pratik Kumar
 - Luke D. Lavis
-date: "2022-02-01T00:00:00Z"
+date: "2022-02-28T00:00:00Z"
 doi: "10.1146/annurev-neuro-110520-030031"
 
 # Schedule page publish date (NOT publication's date).
@@ -30,8 +30,8 @@ tags:
 featured: true
 
 # links:
-# - name: ""
-#   url: ""
+ - name: "Free copy"
+   url: "http://www.annualreviews.org/eprint/REGKYVNE4KVWXECQBEA6/full/10.1146/annurev-neuro-110520-030031"
 url_pdf: ''
 url_code: ''
 #url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/acsbiomedchemau.1c00068/suppl_file/bg1c00068_si_001.pdf'
