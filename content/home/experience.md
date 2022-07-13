@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   company = "JNCASR"
   company_url = "http://www.jncasr.ac.in/fe/poce.php"
   location = "Bangalore, India"
-  date_start = "2013-08-01"
-  date_end = "2019-05-31"
+  date_start = "2010-08-01"
+  date_end = "2012-05-31"
 
 +++
