@@ -4,7 +4,7 @@ authors:
 - Pratik Kumar
 - Luke D. Lavis
 date: "2022-02-02T00:00:00Z"
-doi: "http://www.annualreviews.org/eprint/REGKYVNE4KVWXECQBEA6/full/10.1146/annurev-neuro-110520-030031"
+doi: "10.1146/annurev-neuro-110520-030031"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -31,10 +31,10 @@ featured: true
 
 # links:
 # - name: ""
-#   url: ""
+  url: "http://www.annualreviews.org/eprint/REGKYVNE4KVWXECQBEA6/full/10.1146/annurev-neuro-110520-030031"
 url_pdf: ''
 url_code: ''
-# url_dataset: 'https://chemistry-europe.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fcbic.201900137&file=cbic201900137-sup-0001-misc_information.pdf'
+# url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
