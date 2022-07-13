@@ -1,7 +1,7 @@
 ---
 title: "Melding synthetic molecules and genetically encoded proteins to forge new tools for neuroscience"
 authors:
-- Pratik Kumar
+- <b>Pratik Kumar</b>
 - Luke D. Lavis
 date: "2022-02-28T00:00:00Z"
 doi: "10.1146/annurev-neuro-110520-030031"
@@ -34,7 +34,7 @@ featured: true
 #   url: ""
 url_pdf: 'http://www.annualreviews.org/eprint/REGKYVNE4KVWXECQBEA6/full/10.1146/annurev-neuro-110520-030031'
 url_code: ''
-#url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/acsbiomedchemau.1c00068/suppl_file/bg1c00068_si_001.pdf'
+#url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
