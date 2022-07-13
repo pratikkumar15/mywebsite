@@ -30,13 +30,8 @@ tags:
 featured: true
 
 # links:
-<<<<<<< HEAD
  - name: "Free"
 url: 'http://www.annualreviews.org/eprint/REGKYVNE4KVWXECQBEA6/full/10.1146/annurev-neuro-110520-030031'
-=======
- - name: "Free link"
-  url: "http://www.annualreviews.org/eprint/REGKYVNE4KVWXECQBEA6/full/10.1146/annurev-neuro-110520-030031"
->>>>>>> a5437bb290984529d84b8acfb7257b4f3ad84a07
 url_pdf: ''
 url_code: ''
 # url_dataset: ''
