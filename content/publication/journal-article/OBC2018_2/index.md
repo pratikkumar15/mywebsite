@@ -34,9 +34,9 @@ tags:
 - Activatable Bioorthogonal Reaction
 featured: false
 
-#links:
- #- name: RSC Blog
-  #url: https://blogs.rsc.org/ob/2018/06/08/reactivity-caging-strategy-for-controlling-bioorthogonal-reactivity/
+links:
+ - name: RSC Blog
+   url: https://blogs.rsc.org/ob/2018/06/08/reactivity-caging-strategy-for-controlling-bioorthogonal-reactivity/
 url_pdf: ''
 url_code: ''
 url_dataset: 'http://www.rsc.org/suppdata/c8/ob/c8ob01076e/c8ob01076e1.pdf'
