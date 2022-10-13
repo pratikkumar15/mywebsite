@@ -31,9 +31,9 @@ tags:
 - Genetic labeling
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
+ links:
+ - name: preLights
+   url: https://doi.org/10.1242/prelights.32549
 url_pdf: ''
 url_code: ''
 # url_dataset: 'https://www.biorxiv.org/content/10.1101/2022.07.02.498544v1.supplementary-material'
