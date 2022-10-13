@@ -1,5 +1,5 @@
 ---
-title: "Multifunctional fluorophores for live-cell imaging and affinity capture of proteins"
+title: "Multifunctional Fluorophores for Live-Cell Imaging and Affinity Capture of Proteins"
 authors:
 - Pratik Kumar
 - Jason D. Vevea
