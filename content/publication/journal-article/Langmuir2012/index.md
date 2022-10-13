@@ -34,7 +34,9 @@ tags:
 - Cationic Surfactants
 featured: false
 
-
+links:
+ - name: Indian News
+   url: bit.ly/2t5yzJT
 url_pdf: ''
 url_code: ''
 url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/la302303d/suppl_file/la302303d_si_001.pdf'
@@ -43,9 +45,6 @@ url_project: '/project/surfactant'
 url_slides: ''
 url_source: ''
 url_video: ''
-links:
- - name: "News Coverage"
-   url: 'bit.ly/2t5yzJT'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
