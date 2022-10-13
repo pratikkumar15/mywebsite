@@ -43,7 +43,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 links:
-- name: RSC Blog
+ - name: RSC Blog
   url: https://blogs.rsc.org/ob/2018/06/08/reactivity-caging-strategy-for-controlling-bioorthogonal-reactivity/
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

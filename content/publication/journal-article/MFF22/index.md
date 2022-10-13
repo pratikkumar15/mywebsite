@@ -29,9 +29,9 @@ summary:
 tags:
 - Fluorophore
 - Genetic labeling
-featured: true
+featured: false
 
- links:
+links:
  - name: preLights
    url: https://doi.org/10.1242/prelights.32549
 url_pdf: ''
