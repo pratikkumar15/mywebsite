@@ -34,7 +34,7 @@ tags:
 featured: true
 
  links:
- - name: "Cornell chronicle"
+ name: "Cornell chronicle"
    url: "https://as.cornell.edu/news/lipid-expansion-microscopy-uses-power-click-chemistry"
 url_pdf: ''
 url_code: ''
