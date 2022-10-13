@@ -1,5 +1,5 @@
 ---
-title: "2,7-Diaminobenzopyrylium dyes are live-cell mitochondrial stains"
+title: "2,7-Diaminobenzopyrylium Dyes are Live-Cell Mitochondrial Stains"
 authors:
 - Sambashiva Banala
 - Ariana Tkachuk

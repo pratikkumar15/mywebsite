@@ -1,5 +1,5 @@
 ---
-title: "Melding synthetic molecules and genetically encoded proteins to forge new tools for neuroscience"
+title: "Melding Synthetic Molecules and Genetically Encoded Proteins to Forge New Tools for Neuroscience"
 authors:
 - Pratik Kumar
 - Luke D. Lavis
