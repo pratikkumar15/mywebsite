@@ -1,5 +1,5 @@
 ---
-title: "Lipid expansion microscopy"
+title: "Lipid Expansion Microscopy"
 authors:
 - Brittany M. White
 - Pratik Kumar
