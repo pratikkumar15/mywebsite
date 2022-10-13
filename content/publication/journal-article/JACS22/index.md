@@ -59,6 +59,7 @@ url_video: ''
 #   Otherwise, set `projects: []`.
 projects:
 - tools
+- mfd
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
