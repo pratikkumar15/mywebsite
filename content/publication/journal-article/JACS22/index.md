@@ -31,11 +31,11 @@ tags:
 - Fluorophore
 - Expansion imaging
 - Lipids
-featured: true
+featured: false
 
  links:
- - name: Custom Link
-   url: https://as.cornell.edu/news/lipid-expansion-microscopy-uses-power-click-chemistry
+ - name: "Cutom"
+   url: "https://as.cornell.edu/news/lipid-expansion-microscopy-uses-power-click-chemistry"
 url_pdf: ''
 url_code: ''
 url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/jacs.2c03743/suppl_file/ja2c03743_si_001.pdf'
