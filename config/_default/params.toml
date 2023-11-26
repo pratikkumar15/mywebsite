@@ -88,7 +88,7 @@ email = "Kumarp3@janelia.hhmi.org"
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 address = {street = "19700 Helix Dr", city = "Ashburn", region = "VA", postcode = "20147", country = "United States", country_code = "US"}
 
-# Geographic coordinates
+# Geographic coordinates .enter longitude and latitude values below to enable the map on homepage.
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "", longitude = ""}
 
