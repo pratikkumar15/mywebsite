@@ -20,7 +20,7 @@ doi: "10.1101/2023.12.30.573644"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Review"
+publication: "*In Review*"
 publication_short: ""
 
 abstract: Chemigenetic tags are versatile labels for fluorescence microscopy that combine some of the advantages of genetically encoded tags with small molecule fluorophores. The Fluorescence Activating and absorbance Shifting Tags (FASTs) bind a series of highly fluorogenic and cell-permeable chromophores. Furthermore, FASTs can be used in complementation-based systems for detecting or inducing protein-protein interactions, depending on the exact FAST protein variant chosen. In this study, we systematically explore substitution patterns on FAST fluorogens and generate a series of fluorogens that bind to FAST variants, thereby activating their fluorescence. This effort led to the discovery of a novel fluorogen with superior properties, as well as a fluorogen that transforms splitFAST systems into a fluorogenic dimerizer, eliminating the need for additional protein engineering.
