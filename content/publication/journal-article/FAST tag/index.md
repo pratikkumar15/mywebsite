@@ -6,7 +6,7 @@ authors:
 - Amelia Waring
 - Timothy A. Brown
 - Luke D. Lavis
-- Alsion G. Tebo
+- Alison G. Tebo
 date: "2024-01-02T00:00:00Z"
 doi: "10.1101/2023.12.30.573644"
 
