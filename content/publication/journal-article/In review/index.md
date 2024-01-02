@@ -14,7 +14,7 @@ authors:
 - Ryoma Bise
 - Luke Lavis 
 - Takayasu Mikuni
-date: "2023-06-28T00:00:00Z"
+date: "2023-09-28T00:00:00Z"
 # doi: "10.1146/annurev-neuro-110520-030031"
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +27,7 @@ date: "2023-06-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Annual Review of Neuroscience*, 45, 131-150"
+publication: "*In Review*"
 publication_short: ""
 
 abstract: Different spatial or temporal protein populations, such as cell-surface/intracellular or pre-existing/nascent subpopulations, determine the basal and activity-induced functions of individual synapses within a neuron in vivo. Here, we developed a simple and generalizable platform to image different spatial and temporal subpopulations of endogenous proteins at thousands of synapses in single neurons in the mammalian brain. The platform is based on the development, improvement and integration of CRISPR-Cas9-mediated protein labeling methods, chemical tag labeling techniques, and a semi-automatic analytical pipeline. The combined platform enables whole-cell mapping of total, cell-surface, intracellular, pre-existing, nascent or nascent-and-surface populations of endogenous proteins, such as receptor, scaffold and signaling proteins, at thousands of synapses in individual neurons in living or fixed mouse brain. Our single-cell “synaptome” mapping of endogenous protein subpopulations comprehensively visualizes the spatial representation of synapse diversity in protein localization, trafficking and turnover, providing valuable insights into single-cell organization and computations in the brain.
