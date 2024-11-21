@@ -17,7 +17,7 @@ authors:
 - Valerie M. Weaver
 - Kayvon Pedram
 date: "2024-11-01T00:00:00Z"
-doi: "https://www.biorxiv.org/content/10.1101/2024.05.09.593460v1"
+doi: "10.1101/2024.05.09.593460"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
