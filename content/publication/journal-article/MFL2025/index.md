@@ -1,5 +1,5 @@
 ---
-title: "Multifunctional Fluorophores for Live-Cell Imaging and Affinity Capture of Proteins"
+title: "Optimizing multifunctional fluorescent ligands for intracellular labeling"
 authors:
 - Pratik Kumar
 - Jason D. Vevea
