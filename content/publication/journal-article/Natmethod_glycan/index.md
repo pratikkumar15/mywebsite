@@ -16,7 +16,7 @@ authors:
 - Shaohe Wang
 - Valerie M. Weaver
 - Kayvon Pedram
-date: "2025-2-07T00:00:00Z"
+date: "2025-02-06T00:00:00Z"
 doi: "10.1038/s41592-024-02590-2"
 
 # Schedule page publish date (NOT publication's date).
