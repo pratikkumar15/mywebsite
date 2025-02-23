@@ -1,0 +1,40 @@
+// Increase main menu font size
+.navbar-nav {
+  font-size: 18px;
+}
+
+// Specific styling for main menu items
+#navbar-main .main-menu-item {
+  font-size: 18px;
+}
+
+// Add hover effect
+#navbar-main .nav-link:hover {
+  color: #2962ff !important;  // Adjust color as needed
+  transition: color 0.3s ease;
+}
+
+// Active menu item styling
+#navbar-main .nav-link.active {
+  font-weight: bold;
+  color: #2962ff !important;  // Adjust color as needed
+}
+
+// Add some spacing between menu items
+#navbar-main .nav-item {
+  margin: 0 5px;
+}
+
+// Make the menu items more prominent
+#navbar-main .nav-link {
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+// Optional: Add subtle transition effects
+#navbar-main .nav-link {
+  transition: all 0.3s ease;
+  &:hover {
+    transform: translateY(-1px);
+  }
+}

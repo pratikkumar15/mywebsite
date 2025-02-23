@@ -24,3 +24,9 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "https://pratik-kumar.com/*"
+  to = "https://dyecraftlab.com/:splat"
+  status = 301
+  force = true
